@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 I have been working as a sps developer for a long time 
-and am looking forward to becoming a C# developer soon.
+and am looking forward to becoming a C# developer.
 
 ## 🛠 Skills
 Simatic Manager, TIA Portal, C#...
