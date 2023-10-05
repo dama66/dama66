@@ -13,4 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
 -->
+
+- 🌱 I’m currently learning C# development at WIFI Vorarlberg ...
+
+## 🚀 About Me
+I have been working as a sps developer for a long time 
+and am looking forward to becoming a C# developer soon.
+
+## 🛠 Skills
+Simatic Manager, TIA Portal, C#...
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
