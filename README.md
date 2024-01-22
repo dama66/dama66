@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning C# development at WIFI Vorarlberg ...
+- 🌱 I'm currently training to become a software developer with C# at WIFI Vorarlberg ...
 
 ## 🚀 About Me
 I have been working as a sps developer for a long time 
